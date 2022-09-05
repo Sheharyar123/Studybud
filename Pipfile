@@ -9,6 +9,7 @@ crispy-bootstrap5 = "*"
 django-allauth = "*"
 djangorestframework = "*"
 pillow = "*"
+django-environ = "*"
 
 [dev-packages]
 

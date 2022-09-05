@@ -25,3 +25,6 @@ $RECYCLE.BIN/
 .vscode/
 .history/
 *.code-workspace
+
+# Environment variables
+.env
