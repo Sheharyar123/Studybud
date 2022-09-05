@@ -4,9 +4,8 @@
 __pycache__
 
 # Env
-.env
-myvenv/
-venv/
+Pipfile
+Pipfile.lock
 
 # Database
 db.sqlite3
